@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Anderson Meh Bella 👋
 
-<!--
-**Potcho-ui/Potcho-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Enthusiast | SOC Analyst
+🛡️ Blue Team (Detection & Monitoring) | Red Team Basics
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Passionate about cybersecurity with a strong focus on SOC operations, threat detection, and log analysis.
+Currently building hands-on labs to simulate real-world cyber attacks and defense strategies.
+
+
+## 🛠 Skills
+
+* SIEM: Wazuh, Elastic Stack
+* OS: Linux, Windows
+* Network: TCP/IP, SSH
+* Blue Team: Log Analysis, Incident Response, Threat Detection
+* Red Team: Nmap, Basic Pentesting
+
+
+## 🚀 Projects
+
+### 🔵 SOC Projects
+
+* Wazuh SOC Lab (in progress)
+* SSH Brute Force Detection
+
+### 🔴 Pentesting Projects
+
+* Network Scanning with Nmap (coming soon)
+
+
+## 📈 What I'm currently working on
+
+* Building a SOC Lab with Wazuh
+* Learning penetration testing
+
+
+## 📫 Contact
+
+* LinkedIn: www.linkedin.com/in/anderson-meh-bella
+* Email: mehbellaanderson@gmail.com
