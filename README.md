@@ -1,4 +1,4 @@
-# Hi, I'm Anderson Meh Bella 👋
+# Hi, I'm Anderson MEH BELLA 👋
 
 🔐 Cybersecurity Enthusiast | SOC Analyst
 🛡️ Blue Team (Detection & Monitoring) | Red Team Basics
