@@ -1,7 +1,6 @@
 # Hi, I'm Anderson MEH BELLA 👋
 
-🔐 Cybersecurity Enthusiast | SOC Analyst
-🛡️ Blue Team (Detection & Monitoring) | Red Team Basics
+🔐 Cybersecurity Analyst | SOC • Offensive & Defensive Security • Cloud | AI-Driven Cybersecurity
 
 
 ## 👨‍💻 About Me
