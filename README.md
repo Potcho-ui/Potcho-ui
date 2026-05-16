@@ -7,16 +7,17 @@
 
 Passionate about cybersecurity with a strong focus on SOC operations, threat detection, and log analysis.
 Currently building hands-on labs to simulate real-world cyber attacks and defense strategies.
+Interested in Cloud Security, Incident Response, Threat Hunting, and AI-driven cybersecurity solutions.
 
 
 ## 🛠 Skills
 
 * SIEM: Wazuh, Elastic Stack
 * OS: Linux, Windows
-* Network: TCP/IP, SSH
-* Blue Team: Log Analysis, Incident Response, Threat Detection
-* Red Team: Nmap, Basic Pentesting
-
+* Network: TCP/IP, SSH, DNS, HTTP/HTTPS
+* Blue Team: Log Analysis, Incident Response, Security monitoring
+* Red Team: Nmap, Basic Pentesting, Enumeration
+* Cloud: AWS Fundamentals
 
 ## 🚀 Projects
 
@@ -24,10 +25,6 @@ Currently building hands-on labs to simulate real-world cyber attacks and defens
 
 * Wazuh SOC Lab (in progress)
 * SSH Brute Force Detection
-
-### 🔴 Pentesting Projects
-
-* Network Scanning with Nmap (coming soon)
 
 
 ## 📈 What I'm currently working on
